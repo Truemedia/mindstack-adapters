@@ -1,0 +1,27 @@
+[submodule "dropbox"]
+	path = dropbox
+	url = git@github.com:Truemedia/mindstack-dropbox.git
+[submodule "raspberry"]
+	path = raspberry
+	url = git@github.com:Truemedia/mindstack-raspberry.git
+[submodule "terminal"]
+	path = terminal
+	url = git@github.com:Truemedia/mindstack-terminal.git
+[submodule "discord"]
+	path = discord
+	url = git@github.com:Truemedia/mindstack-discord.git
+[submodule "three"]
+	path = three
+	url = git@github.com:Truemedia/mindstack-three.git
+[submodule "slack"]
+	path = slack
+	url = git@github.com:Truemedia/mindstack-slack.git
+[submodule "mail"]
+	path = mail
+	url = git@github.com:Truemedia/mindstack-mail.git
+[submodule "arduino"]
+	path = arduino
+	url = git@github.com:Truemedia/mindstack-arduino.git
+[submodule "alexa"]
+	path = alexa
+	url = git@github.com:Truemedia/mindstack-alexa.git
